@@ -1,2 +1,2 @@
-# My-lerning-Automatization-
+# My-Automatization-
 Learning
